@@ -2,7 +2,7 @@
 
 ### The project consists of creating a web application for scheduling services in a barbershop.
 
-## Preview
+## 💡 Preview
 
 <img width="1440" alt="Logon" src="https://user-images.githubusercontent.com/61084908/120925186-d29bcd80-c6ad-11eb-8d24-108d1d30991c.png">
 
@@ -26,4 +26,4 @@ $ yarn install
 ### Run the app
 $ yarn start
 
-## Made with ❤ by Victor Yuri.
+### Made with ❤ by Victor Yuri.
